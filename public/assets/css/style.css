@@ -1,0 +1,41 @@
+body {
+    background-color: aliceblue;
+}
+
+.form-bg {
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.25);
+    -moz-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.25);
+    box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.25);
+}
+
+.btn {
+    background-color: salmon;
+    color: white;
+    font-weight: normal;
+    border: 2px solid white;
+}
+
+.btn:hover {
+    background-color: indianred;
+}
+
+hr {
+    background-color: white;
+}
+
+.user-info {
+    padding-bottom: 20px;
+}
+
+.sticky-top {
+    background-color: dodgerblue;
+}
+
+.py-2 {
+    color: white;
+}
